@@ -6,6 +6,12 @@
 
 	* Arrays
 
+	Es una lista de elementos o coleccion de elementos;
+	Estos elementos pueden ser de cualquier tipo numeros,strings,booleanos,funciones,arreglos;
+	Estos elementos van dentros de brakets y separados por una coma
+	Ejemplo var lista = [1,2,3,'jorge',true,function ()];
+	
+
 2. Desde la carpeta `Prep` en la carpeta donde clonaste el repo, ingresa el comando `npm test JSIII.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
 
 
